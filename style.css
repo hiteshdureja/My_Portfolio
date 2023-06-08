@@ -454,7 +454,7 @@ main #project #project-all .project-block .project-block-cont .used-lang {
 }
 
 main #project #project-all .project-block .project-block-cont .used-lang .label {
-  padding: 0 0.3rem;
+  padding: 0 1.0rem;
   border-radius: 1rem;
   background: rgba(166, 250, 243, 0.623);
 }
